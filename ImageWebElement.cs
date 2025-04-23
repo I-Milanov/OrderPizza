@@ -3,7 +3,7 @@ using System.Drawing;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Interactions;
 
-namespace TestProject1
+namespace DominosOrderTest
 {
     public class ImageWebElement : IWebElement
     {

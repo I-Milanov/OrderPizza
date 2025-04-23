@@ -2,10 +2,9 @@
 using OpenCvSharp;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Support.UI;
-using TestProject1;
 using Point = OpenCvSharp.Point;
 
-namespace SeleniumExtensions
+namespace DominosOrderTest
 {
     public static class WebDriverExtensions
     {

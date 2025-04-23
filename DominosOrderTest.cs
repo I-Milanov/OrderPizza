@@ -1,10 +1,7 @@
 ﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Support.UI;
-using SeleniumExtensions;
 using SeleniumExtras.WaitHelpers;
-
-using TestProject1;
 
 namespace DominosOrderTest
 {
